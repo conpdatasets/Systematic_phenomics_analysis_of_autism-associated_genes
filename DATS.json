@@ -49,10 +49,10 @@
     "version": "3.2",
     "licenses": [
         {
-            {
-  				"identifier": "ilx_0102627",
-			    "identifierSource": "http://uri.interlex.org/base/ilx_0102627"
-			},
+            "identifier": {
+                "identifier": "ilx_0102627",
+                "identifierSource": "http://uri.interlex.org/base/ilx_0102627"
+            },
             "name": "CC0"
         }
     ],
