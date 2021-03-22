@@ -140,10 +140,11 @@
     ],
     "types": [
         {
-            "value": "medicine"
-        },
-        {
-            "value": "health and life sciences"
+            "identifier": {
+                "identifier": "ilx_0106723",
+                "identifierSource":"http://uri.interlex.org/base/ilx_0106723"
+            },
+            "value": "medecine"
         }
     ]
 }
