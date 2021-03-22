@@ -49,6 +49,10 @@
     "version": "3.2",
     "licenses": [
         {
+            "identifier": {
+                "identifier": "ilx_0102627",
+                "identifierSource": "http://uri.interlex.org/base/ilx_0102627"
+            },
             "name": "CC0"
         }
     ],
@@ -136,10 +140,11 @@
     ],
     "types": [
         {
-            "value": "medicine"
-        },
-        {
-            "value": "health and life sciences"
+            "identifier": {
+                "identifier": "ilx_0106723",
+                "identifierSource":"http://uri.interlex.org/base/ilx_0106723"
+            },
+            "value": "medecine"
         }
     ]
 }
